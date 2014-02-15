@@ -1,0 +1,8 @@
+[user]
+	name = lhdv
+	email = lh@lhdv.net
+[color]
+	branch = auto
+	status = auto
+	diff = auto
+	interactive = auto
