@@ -2,7 +2,7 @@
 set number
 
 " Show line number relative to the cursor position
-set relativenumber
+" set relativenumber
 
 " Show line and column number of the cursor position
 set ruler
